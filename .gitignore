@@ -1,0 +1,12 @@
+# compiled files
+bin/
+build/
+*.o
+*.out
+
+# system files
+err.txt
+
+# executables
+yt_media
+yt_media.exe
